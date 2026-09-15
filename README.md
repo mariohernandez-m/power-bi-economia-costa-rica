@@ -142,6 +142,24 @@ Entre ellas:
 - Coeficientes de correlación de Pearson.
 
 ---
+## 💻 Código y medidas DAX
+
+Como parte de la documentación técnica del proyecto, se incluye una selección de las principales medidas DAX utilizadas en el modelo.
+
+El archivo contiene ejemplos relacionados con:
+
+- Indicadores económicos y financieros.
+- Análisis temporal.
+- Crecimiento interanual.
+- Mercado cambiario.
+- Tratamiento de valores faltantes.
+- Correlaciones de Pearson.
+- Storytelling dinámico.
+- Manejo del contexto de filtros.
+
+➡️ **[Consultar las medidas DAX principales](DAX/medidas_principales.md)**
+
+> Por razones de seguridad, la documentación no incluye credenciales, tokens, rutas privadas ni parámetros sensibles de conexión.
 
 ## 🔗 Relaciones estadísticas analizadas
 
@@ -207,22 +225,13 @@ Incluye:
 
 ---
 
-## 3. Relaciones entre indicadores económicos
+## 💻 Documentación técnica DAX
 
-Esta página explora asociaciones estadísticas entre diferentes variables económicas.
+Para consultar ejemplos de las medidas utilizadas en el desarrollo del dashboard, se incluye una documentación técnica con parte de la lógica implementada en DAX.
 
-Incluye:
+➡️ **[Ver medidas DAX principales](DAX/medidas_principales.md)**
 
-- Correlación entre inflación y TPM.
-- Correlación entre TPM y crecimiento del crédito.
-- Correlación entre M1 e IMAE.
-- Gráficos de dispersión.
-- Líneas de tendencia.
-- Coeficientes de correlación.
-- Interpretaciones dinámicas según el período seleccionado.
-
-![Relaciones entre indicadores](images/03_relaciones.png.jpg)
-
+> El archivo incluye una selección representativa de medidas y no contiene credenciales, tokens ni información sensible de conexión.
 ---
 
 ## 4. Metodología y fuentes
