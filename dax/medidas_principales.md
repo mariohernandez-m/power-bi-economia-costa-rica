@@ -653,3 +653,5 @@ El dashboard fue desarrollado utilizando principalmente:
 - SharePoint / OneDrive
 
 El objetivo del proyecto es demostrar la aplicación de técnicas de **análisis de datos, Business Intelligence, modelado, visualización y comunicación de resultados** mediante información económica y financiera pública.
+
+
