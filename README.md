@@ -234,6 +234,14 @@ Para consultar ejemplos de las medidas utilizadas en el desarrollo del dashboard
 > El archivo incluye una selección representativa de medidas y no contiene credenciales, tokens ni información sensible de conexión.
 ---
 
+## 🔄 Documentación técnica de Power Query
+
+Para complementar la documentación del proyecto, se incluye una descripción del proceso de extracción, transformación e integración de datos realizado con Power Query.
+
+➡️ **[Ver integración y transformación de datos](PowerQuery/integracion_datos.md)**
+
+> La documentación pública no contiene tokens, credenciales, rutas privadas ni información sensible de conexión.
+
 ## 4. Metodología y fuentes
 
 Esta página documenta el proceso utilizado para construir el dashboard.
